@@ -7,3 +7,6 @@
 [submodule "CI/sub/empty-repo"]
 	path = CI/sub/empty-repo
 	url = https://github.com/Git-Mani/empty-repo.git
+[submodule "empty-repo"]
+	path = empty-repo
+	url = https://github.com/Git-Mani/empty-repo.git
