@@ -4,3 +4,6 @@
 [submodule "reset/UserService"]
 	path = reset/UserService
 	url = https://github.com/Git-Mani/UserService.git
+[submodule "CI/sub/empty-repo"]
+	path = CI/sub/empty-repo
+	url = https://github.com/Git-Mani/empty-repo.git
